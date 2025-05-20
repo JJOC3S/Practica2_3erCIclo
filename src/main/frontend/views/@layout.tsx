@@ -48,7 +48,7 @@ function UserMenu() {
     {
       component: (
         <>
-          <Avatar theme="xsmall" name="John Smith" colorIndex={5} className="mr-s" /> John Smith
+          <Avatar theme="xsmall" name="Jimmy Ontaneda" colorIndex={5} className="mr-s" /> Jimmy Ontaneda
         </>
       ),
       children: [
